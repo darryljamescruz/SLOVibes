@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+
+@font-face {
+  font-family: 'DIN';
+  src: url('/fonts/DIN-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'DIN';
+  src: url('/fonts/DIN-Bold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+}
