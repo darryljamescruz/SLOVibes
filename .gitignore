@@ -1,9 +1,6 @@
 /node_modules/
 packages/fastapi-backend/.venv
-packages/fastapi-backend/app/__pycache__/__init__.cpython-313.pyc
-packages/fastapi-backend/app/__pycache__/main.cpython-311.pyc
 .gitignore
-packages/fastapi-backend/app/__pycache__/__init__.cpython-311.pyc
-.gitignore
-packages/fastapi-backend/app/__pycache__/audio_processing.cpython-311.pyc
-packages/fastapi-backend/app/__pycache__/main.cpython-313.pyc
+packages/fastapi-backend/processed
+packages/fastapi-backend/uploads
+packages/fastapi-backend/__pycache__/
