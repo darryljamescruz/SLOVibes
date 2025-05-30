@@ -1,1 +1,1 @@
-# slowed-reverb-editor
+# SLOVibes
